@@ -1,0 +1,12 @@
+h1 {color: red; text-wrap-mode: wrap; text-align: center;}
+body {
+    background-color: white;
+color: rgb(152, 58, 74);
+font-family: fantasy;}
+img {display: block;
+  margin: auto;
+  width: 50%; 
+  }
+  h2 {text-align:center}
+p {text-align: center;}
+h3 {font-size: xx-large;}
