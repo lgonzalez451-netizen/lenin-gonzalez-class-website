@@ -1,6 +1,7 @@
 h1 {color: red; text-wrap-mode: wrap; text-align: center;}
 body {
-    background-color: white;
+    background-image: url('notebook.jpg');
+    background-size: cover;
 color: rgb(152, 58, 74);
 font-family: fantasy;}
 img {display: block;
@@ -24,7 +25,11 @@ text-align: center;}
 
 #identity {font-size: xx-large;}
 #words {font-size: xx-large;}
-#cat1 {width:fit-content;
-float: left;}
-#cat2 {width:fit-content;
-float: right;}
+
+#cat1 {width:750px;
+float: left;
+height:fit-content;}
+
+#cat2 {width:750px;
+float: right;
+height:fit-content;}
