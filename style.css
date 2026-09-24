@@ -11,25 +11,48 @@ img {display: block;
   h2 {text-align:center}
 p {text-align: center;}
 h3 {font-size: xx-large;}
+
 #Artists {background-color: white; 
   border: 2px solid rgba(204, 54, 54, 0.479); 
-  padding: 20px;}
+  padding: 20px;
+margin: auto;
+width: 300px;
+height: 80px;
+list-style-position: inside;}
 
 .Highlight { background-color: rgb(255, 115, 0);
    color: rgb(255, 255, 255);
-    padding: 10px;}
+    padding: 20px;
+  margin: auto;
+border: 10px;
+width: 1000px;}
 
-#Skindred {background-color: rgb(153, 110, 19);
-color: rgba(213, 212, 212, 0.997);
+#Skindred {background-color: rgb(228, 185, 93);
+color: rgba(255, 255, 255, 0.997);
+text-align: center;
+padding: 20px;
+  margin: auto;
+border: 10px;
+width: 600px;}
+
+#link {font-size: xx-large;
 text-align: center;}
-
 #identity {font-size: xx-large;}
-#words {font-size: xx-large;}
+#words {font-size: xx-large;
+padding: 20px;
+margin: auto;
+width: 300px;
+height: 80px;
+list-style-position: inside;}
 
-#cat1 {width:750px;
+#cat1 {width:500px;
 float: left;
-height:fit-content;}
+height:fit-content;
+margin: auto;
+padding:50px;}
 
-#cat2 {width:750px;
+#cat2 {width:500px;
 float: right;
-height:fit-content;}
+height:500px;
+margin: auto;
+padding:100px;}
