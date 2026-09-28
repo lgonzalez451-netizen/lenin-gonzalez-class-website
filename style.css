@@ -56,3 +56,11 @@ float: right;
 height:500px;
 margin: auto;
 padding:100px;}
+
+#holy-grail-link {
+    text-align: center;
+    margin: 20px auto;
+    width: 300px;
+    padding: 10px;
+  font-size: xx-large;
+}
