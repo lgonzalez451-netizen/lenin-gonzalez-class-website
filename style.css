@@ -68,3 +68,13 @@ padding:100px;}
 #myImage {
   width: 200px;
 } 
+
+#java-link {
+    color: black;
+    padding: 10px;
+    text-align: center;
+    margin: 20px auto;
+    width: 200px;
+    border: 2px;
+    font-size: x-large;
+}
